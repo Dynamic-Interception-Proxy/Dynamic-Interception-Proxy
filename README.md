@@ -22,11 +22,11 @@ FULL CODE (DO NOT RUN):
 > [Dynamic-Interception-Proxy](https://github.com/dynamic-interception-proxy/dynamic-interception-proxy
 
 ## Team
-> EnderKingJ (EnderKingJ#0001) Head Developer
-> Degenerate (Degenerate#0001) Backend Developer
-> Peter Griffin (peter griffin#2987) Frontend Developer
-> C-Bass (c-bass#7433) Frontend and Backend Developer
+> EnderKingJ (EnderKingJ#0001) Head Developer<br>
+> Degenerate (Degenerate#0001) Backend Developer<br>
+> Peter Griffin (peter griffin#2987) Frontend Developer<br>
+> C-Bass (c-bass#7433) Frontend and Backend Developer<br>
 
 ## Special Thanks
-> Device (Device#8559) TOMPhttp, Interception, Worker Help
-> Sexyduceduce (sexyduceduce#6722) Worker and Client Script Help
+> Device (Device#8559) TOMPhttp, Interception, Worker Help<br>
+> Sexyduceduce (sexyduceduce#6722) Worker and Client Script Help<br>
