@@ -19,7 +19,7 @@ Backend (Server/Rewrite) Files:
 > [DIP-Backend](https://github.com/dynamic-interception-proxy/dip-backend)
 
 FULL CODE (DO NOT RUN):
-> [Dynamic-Interception-Proxy](https://github.com/dynamic-interception-proxy/dynamic-interception-proxy
+> [Dynamic-Interception-Proxy](https://github.com/dynamic-interception-proxy/dynamic-interception-proxy)
 
 ## Team
 > EnderKingJ (EnderKingJ#0001) Head Developer<br>
